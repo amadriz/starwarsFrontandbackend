@@ -1,7 +1,7 @@
 const getState = ({ getStore, getActions, setStore }) => {
 	return {
 		store: {
-			message: null,
+			message: "funciona el backend",
 			demo: [
 				{
 					title: "FIRST",
